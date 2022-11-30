@@ -11,4 +11,4 @@ Here you can:
 - update recipe (if you are the user who created it)
 - delete recipe (if you are the user who created it)
 
-Spring Boot, REST API, Spring Security (Authentication/Authorization), Lombok, Spring Data, H2 database
+Spring Boot, REST API, Spring Security (Authentication/Authorization), Project Lombok, Spring Data, H2 database
